@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Gimantha%20Dilshan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=160&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I+am+Gimantha+Dilshan" alt="Typing SVG"/>
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gimantha003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimantha003)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimantha333@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=F59E0B&center=true&vCenter=true&width=700&lines=I+am+actively+steering+my+journey+toward+becoming+a+DevOps+Engineer" alt="Typing SVG"/>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -26,7 +32,6 @@ const gimantha = {
 };
 ```
 
--  Currently working on **Smart Campus Hub** (Facility Management System — Spring Boot + React) and **SLIIT Learning Platform**
 -  Deep-diving into **DevOps**: Containerization, CI/CD, and Cloud Automation
 -  Open to collaborating on **Open-Source MERN, Spring Boot & Kotlin** projects
 -  Ask me about **Full-Stack Dev, Android with Kotlin**, or **Test Automation with Playwright**
