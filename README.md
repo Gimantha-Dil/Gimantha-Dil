@@ -1,27 +1,135 @@
-# 💫 About Me:
-Here is a tailored introduction for your GitHub profile based on your resume, using standard GitHub Markdown formatting to make it look clean and professional.<br><br>---<br><br>### Hi there, I'm Gimantha! 👋<br><br>I am an Information Technology undergraduate at SLIIT with a passion for building scalable web and mobile applications. I specialize in full-stack development and mobile apps, and I am actively steering my journey toward becoming a **DevOps Engineer**.<br><br>Here is a quick look at what I'm up to:<br><br>* **I’m currently working on:** Building full-stack systems and mobile apps, including recent projects like **Smart Campus Hub** (a facility management system using Spring Boot and React) and **SLIIT Learning Platform**.<br><br>* **I’m looking to collaborate on:** Open-source MERN, Spring Boot, or Kotlin mobile application projects where I can contribute to backend logic or UI/UX design.<br><br>* **I’m currently learning:** Deep-diving into **DevOps practices**, specifically containerization with **Docker**, building **CI/CD pipelines**, and mastering automation.<br><br>* **Ask me about:** Full-stack development (MongoDB, Express, React, Node, Spring Boot), Android app development with **Kotlin**, and test automation using **Playwright**.<br><br>* **Fun fact:** I built a mobile app called **FuelGo** that lets users order petrol or diesel straight to their location—essentially Uber Eats, but for your car's fuel tank!<br><br>---<br><br>### Tech Stack & Tools<br><br>* **Languages:** JavaScript, Kotlin, SQL, HTML, CSS, Linux<br><br>* **Frameworks & Libraries:** Spring Boot, React.js, Node.js, Express.js, Playwright<br><br>* **Databases:** MongoDB, MySQL, SQLite, Oracle SQL<br><br>* **DevOps & Tools:** Docker, Git, GitHub, Jira, Postman, Figma
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Gimantha%20Dilshan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descColor=94a3b8" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gimantha003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gimantha333@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gimantha-Dil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gimantha-Dil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gimantha-Dil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gimantha-Dil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimantha333@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+![Profile Views](https://komarev.com/ghpvc/?username=gimantha&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gimantha-Dil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Gimantha-Dil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```typescript
+const gimantha = {
+  role:       "IT Undergraduate @ SLIIT",
+  focus:      ["Full-Stack Development", "Mobile Apps", "DevOps Engineering"],
+  learning:   ["Docker", "CI/CD Pipelines", "Cloud Technologies", "Kubernetes"],
+  collab:     ["MERN Stack", "Spring Boot", "Kotlin Android Apps"],
+  contact:    "gimantha333@gmail.com",
+  funFact:    "Built FuelGo 🚗⛽ — Uber Eats, but for your fuel tank!"
+};
+```
+
+- 🔭 Currently working on **Smart Campus Hub** (Facility Management System — Spring Boot + React) and **SLIIT Learning Platform**
+- 🌱 Deep-diving into **DevOps**: Containerization, CI/CD, and Cloud Automation
+- 🤝 Open to collaborating on **Open-Source MERN, Spring Boot & Kotlin** projects
+- 💡 Ask me about **Full-Stack Dev, Android with Kotlin**, or **Test Automation with Playwright**
+- 📫 Reach me at **gimantha333@gmail.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧩 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 Smart Campus Hub
+> Facility Management System for university campuses
+
+- **Stack:** Spring Boot · React.js · MySQL
+- **Features:** Facility booking, resource management, real-time dashboards
+- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com)
+
+---
+
+### 📚 SLIIT Learning Platform
+> E-Learning platform tailored for SLIIT students
+
+- **Stack:** MERN Stack (MongoDB · Express · React · Node.js)
+- **Features:** Course management, interactive content delivery, user progress tracking
+- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com)
+
+---
+
+### 🚗⛽ FuelGo — Fuel On Demand
+> Order fuel to your location. Like Uber Eats, but for your car.
+
+- **Stack:** Kotlin · Android · Firebase
+- **Features:** Real-time delivery tracking, secure payments, order history
+- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gimantha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimantha&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gimantha&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+```
+✅ Docker & Containerization
+🔄 CI/CD Pipelines (GitHub Actions, Jenkins)
+🔄 Kubernetes Orchestration
+⏳ AWS / GCP Cloud Fundamentals
+⏳ Infrastructure as Code (Terraform)
+⏳ Monitoring & Observability (Prometheus, Grafana)
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
