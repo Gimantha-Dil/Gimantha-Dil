@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimantha333@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-![Profile Views](https://komarev.com/ghpvc/?username=gimantha&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -28,7 +28,7 @@ const gimantha = {
 };
 ```
 
-- 🔭 Currently working on **Smart Campus Hub** (Facility Management System — Spring Boot + React) and **SLIIT Learning Platform**
+- 🔭 Currently working on **Smart Campus Hub** (Spring Boot + React) and **SLIIT Learning Platform**
 - 🌱 Deep-diving into **DevOps**: Containerization, CI/CD, and Cloud Automation
 - 🤝 Open to collaborating on **Open-Source MERN, Spring Boot & Kotlin** projects
 - 💡 Ask me about **Full-Stack Dev, Android with Kotlin**, or **Test Automation with Playwright**
@@ -76,7 +76,7 @@ const gimantha = {
 
 - **Stack:** Spring Boot · React.js · MySQL
 - **Features:** Facility booking, resource management, real-time dashboards
-- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com)
+- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/smart-campus-hub)
 
 ---
 
@@ -85,7 +85,7 @@ const gimantha = {
 
 - **Stack:** MERN Stack (MongoDB · Express · React · Node.js)
 - **Features:** Course management, interactive content delivery, user progress tracking
-- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com)
+- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/sliit-learning-platform)
 
 ---
 
@@ -94,7 +94,7 @@ const gimantha = {
 
 - **Stack:** Kotlin · Android · Firebase
 - **Features:** Real-time delivery tracking, secure payments, order history
-- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com)
+- [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/fuelgo)
 
 ---
 
@@ -102,34 +102,43 @@ const gimantha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gimantha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimantha&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gimantha&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Gimantha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## 🎯 2026 Roadmap
+## 🎯 2026 DevOps Roadmap
 
-```
-✅ Docker & Containerization
-🔄 CI/CD Pipelines (GitHub Actions, Jenkins)
-🔄 Kubernetes Orchestration
-⏳ AWS / GCP Cloud Fundamentals
-⏳ Infrastructure as Code (Terraform)
-⏳ Monitoring & Observability (Prometheus, Grafana)
-```
+| Status | Topic |
+|--------|-------|
+| ✅ Done | Docker & Containerization |
+| 🔄 In Progress | CI/CD Pipelines (GitHub Actions, Jenkins) |
+| 🔄 In Progress | Kubernetes Orchestration |
+| ⏳ Upcoming | AWS / GCP Cloud Fundamentals |
+| ⏳ Upcoming | Infrastructure as Code (Terraform) |
+| ⏳ Upcoming | Monitoring & Observability (Prometheus, Grafana) |
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" width="100%"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
